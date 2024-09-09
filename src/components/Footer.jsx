@@ -14,6 +14,7 @@ export default function Footer() {
                             <li><Link href="https://freeflo.ai/images/photo/small-white-boat-in-water-surrounded-by-mountains-HE49VJHYuUyzHlTbjiAK" className="text-blue-400 hover:underline">Image de background de la section Home</Link></li>
                             <li><Link href="https://tailwindcss.com/" className="text-blue-400 hover:underline">Tailwind CSS pour la mise en page</Link></li>
                             <li><Link href="https://fontawesome.com/" className="text-blue-400 hover:underline">Font Awesome pour les logos</Link></li>
+                            <li><Link href="https://icons8.com/icons" className="text-blue-400 hover:underline">Icons8 pour les icônes</Link></li>
                         </ul>
                     </div>
                 

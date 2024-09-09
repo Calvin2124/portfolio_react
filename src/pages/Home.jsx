@@ -106,8 +106,8 @@ export default function Home() {
                                     <div className="items-center mb-2" aria-label="React">
                                         <i className="fab fa-react text-2xl text-gray-700" aria-hidden="true"></i>
                                     </div>
-                                    <div className="items-center mb-2" aria-label="Tailwind CSS">
-                                        <i className="fab fa-wind text-2xl text-gray-700" aria-hidden="true"></i>
+                                    <div className="items-center mb-2 self-center" aria-label="Tailwind CSS">
+                                        <img src="/icons8-tailwind-css.svg" alt="Tailwind CSS" className="w-full mb-0 h-auto" />
                                     </div>
                                 </div>
                                 <p className="text-gray-600">
